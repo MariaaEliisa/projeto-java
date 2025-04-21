@@ -1,2 +1,2 @@
-# projeto-java
+# prototipo-java
 Trabalho em java
